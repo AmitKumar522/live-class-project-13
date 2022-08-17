@@ -10,7 +10,7 @@ By Amit Kumar
 
 [Live link for the project](live-class-project013.netlify.app)
 #### Honest time to finish this project;
-- It almost take's one day to understand and build this beautiful landing page.
+- It almost take's 2hr to understand and build this beautiful landing page.
  ## Screenshots
  [](https://live-class-project-09.netlify.app)
  
