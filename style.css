@@ -1,0 +1,151 @@
+nav {
+    background-color: #7030CC;
+    display: grid;
+    color: white;
+    grid-template-columns: 1fr 4fr 1fr;
+}
+.home-block {
+    background-color: #7030CC;
+    color: white;
+}
+
+button {
+    background-color: #2c9af4;
+    border: none;
+    color: white;
+}
+
+
+ul {
+    display: flex;
+    list-style-type: none;
+    float: right;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+li {
+    padding: 0 20px;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    padding: 10px 10px;
+}
+button:hover {
+    cursor: pointer;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0 20px 0;
+}
+
+.home-block {
+    height: 100vh;
+   
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.home-right {
+    margin-top: -100px;
+    display: flex;
+}
+
+.home-left h1 {
+    padding-right: 304px;
+    margin-top: 100px;
+    font-size: 4rem;
+    margin-left: 40px;
+    width: 400px;
+}
+.home-left p {
+    padding-right: 53px;
+    margin-top: 47px;
+    margin-left: 46px;
+}
+
+.last {
+  
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+}
+
+.last-right h1 {
+    padding-right: 200px;
+    width: 300px;
+}
+.last-right {
+    padding-left: 202px;
+    margin-top: 80px;
+}
+.features div p {
+    padding-right: 302px;
+}
+.features {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 1200px;
+    margin-top: 40px;
+}
+.slogan {
+    text-align: center;
+    font-size: 2rem;
+    width: 600px;
+    margin-left: 30%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+    
+}
+
+.banner div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.wrap {
+    background-color: antiquewhite;
+    width: 70px;
+    height: 70px;
+    border-radius: 70px;
+    box-shadow: black;
+}
+
+.banner > div > p {
+    padding: 0 33px;
+    margin-left: 45px;
+    margin-top: -10px;
+}
+.clean-code{
+    margin-left: 10px;
+    background-color: #7030CC;
+    border-radius: 20px;
+    width: 200px;
+    height: 150px;
+}
+.wrap{
+    background-color: bisque;
+}
